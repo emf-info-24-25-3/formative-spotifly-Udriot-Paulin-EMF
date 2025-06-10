@@ -1,5 +1,5 @@
 package app;
-
+import services.ServiceCalculDuree;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -15,7 +15,7 @@ public class App {
         //     \ V / (_) || | |   / _|  | (_| (_) | |) | _|   | | (__ | |  |_|
         //      \_/ \___/ |_| |_|_\___|  \___\___/|___/|___| |___\___|___| (_)
         //
-
-
+        
     }
+
 }
